@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 font-sans;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-rappi-orange text-white font-semibold px-6 py-3 rounded-xl
+           active:scale-95 transition-all duration-150 w-full md:w-auto
+           disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-secondary {
+    @apply bg-white text-gray-700 font-semibold px-6 py-3 rounded-xl border
+           border-gray-200 active:scale-95 transition-all duration-150
+           w-full md:w-auto;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-sm border border-gray-100 p-5;
+  }
+
+  .kpi-card {
+    @apply bg-white rounded-2xl shadow-sm border border-gray-100 p-4
+           flex flex-col gap-1;
+  }
+
+  .section-title {
+    @apply text-lg font-bold text-gray-900 mb-4;
+  }
+
+  .input-field {
+    @apply w-full border border-gray-200 rounded-xl px-4 py-3 text-sm
+           focus:outline-none focus:ring-2 focus:ring-rappi-orange/30
+           focus:border-rappi-orange transition-colors;
+  }
+
+  /* Slider personalizado con área de toque grande (mobile) */
+  input[type='range'] {
+    @apply w-full h-2 bg-gray-200 rounded-full appearance-none cursor-pointer;
+    min-height: 44px;
+  }
+
+  input[type='range']::-webkit-slider-thumb {
+    @apply appearance-none w-6 h-6 bg-rappi-orange rounded-full shadow-md
+           cursor-pointer;
+  }
+
+  input[type='range']::-moz-range-thumb {
+    @apply w-6 h-6 bg-rappi-orange rounded-full shadow-md cursor-pointer border-0;
+  }
+}

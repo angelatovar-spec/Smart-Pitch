@@ -1,0 +1,31 @@
+ops_zone,total_users,prime_users,food_category,orders_last_week,avg_ticket,peak_day,peak_day_orders,avg_connectivity_hrs,successful_brands,available_rts,cancellation_rate
+Chapinero,45200,8100,Hamburguesas,3200,38000,viernes,680,10.5,14,180,0.072
+Chapinero,45200,8100,Pizza,1800,42000,sábado,420,9.2,8,180,0.072
+Chapinero,45200,8100,Sushi,950,61000,viernes,210,11.0,5,180,0.072
+Chapinero,45200,8100,Pollo,2400,28000,viernes,520,8.5,12,180,0.072
+Chapinero,45200,8100,Mexicana,1200,35000,sábado,280,7.8,6,180,0.072
+Usaquén,38600,7200,Hamburguesas,2800,42000,sábado,590,11.2,12,155,0.065
+Usaquén,38600,7200,Pizza,2100,46000,viernes,480,10.1,9,155,0.065
+Usaquén,38600,7200,Sushi,1400,68000,viernes,310,12.5,7,155,0.065
+Usaquén,38600,7200,Saludable,1800,38000,miércoles,400,9.8,8,155,0.065
+Usaquén,38600,7200,Pollo,2200,31000,jueves,470,8.2,11,155,0.065
+Suba,62100,9800,Hamburguesas,4500,32000,viernes,920,9.0,18,220,0.081
+Suba,62100,9800,Pizza,3200,35000,viernes,680,8.5,14,220,0.081
+Suba,62100,9800,Pollo,3800,26000,jueves,790,7.5,16,220,0.081
+Suba,62100,9800,Mexicana,1600,33000,sábado,340,7.2,7,220,0.081
+Suba,62100,9800,Comida Rápida,5200,22000,viernes,1100,8.8,22,220,0.081
+Kennedy,58400,7100,Hamburguesas,5100,28000,viernes,1050,8.2,20,195,0.094
+Kennedy,58400,7100,Pollo,4200,24000,viernes,880,7.8,18,195,0.094
+Kennedy,58400,7100,Comida Rápida,6200,20000,jueves,1280,8.0,25,195,0.094
+Kennedy,58400,7100,Pizza,2800,31000,sábado,600,7.5,12,195,0.094
+Kennedy,58400,7100,Mexicana,1900,29000,sábado,410,7.0,8,195,0.094
+Laureles Medellín,41200,8900,Hamburguesas,3600,44000,viernes,750,11.8,15,168,0.058
+Laureles Medellín,41200,8900,Pizza,2200,48000,sábado,490,10.5,10,168,0.058
+Laureles Medellín,41200,8900,Sushi,1600,72000,viernes,360,13.2,8,168,0.058
+Laureles Medellín,41200,8900,Saludable,2100,42000,miércoles,460,10.8,9,168,0.058
+Laureles Medellín,41200,8900,Italiana,1100,55000,sábado,250,9.5,5,168,0.058
+El Poblado Medellín,52800,12400,Hamburguesas,4100,52000,sábado,850,12.5,16,190,0.061
+El Poblado Medellín,52800,12400,Sushi,2800,85000,viernes,620,14.0,11,190,0.061
+El Poblado Medellín,52800,12400,Pizza,2400,54000,viernes,520,11.2,10,190,0.061
+El Poblado Medellín,52800,12400,Saludable,3200,48000,miércoles,690,12.8,13,190,0.061
+El Poblado Medellín,52800,12400,Italiana,1800,68000,sábado,400,10.5,7,190,0.061

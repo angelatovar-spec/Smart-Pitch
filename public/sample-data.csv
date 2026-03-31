@@ -1,0 +1,13 @@
+ops_zone,total_users,prime_users,food_category,orders_last_week,avg_ticket,peak_day,peak_day_orders,avg_connectivity_hrs,successful_brands,available_rts,cancellation_rate
+"Chapinero Norte",45000,8200,"Hamburguesas",3200,38000,"viernes",820,10.5,12,180,0.07
+"Chapinero Norte",45000,8200,"Pizza",1800,42000,"sábado",420,9.0,8,180,0.07
+"Chapinero Norte",45000,8200,"Sushi",950,61000,"viernes",280,11.0,5,180,0.06
+"Chapinero Norte",45000,8200,"Comida Saludable",620,35000,"miércoles",160,8.5,4,180,0.07
+"Usaquén",62000,14500,"Hamburguesas",4100,41000,"viernes",1050,11.0,15,240,0.06
+"Usaquén",62000,14500,"Pizza",2300,45000,"sábado",580,9.5,10,240,0.06
+"Usaquén",62000,14500,"Sushi",1400,68000,"viernes",380,12.0,7,240,0.05
+"Usaquén",62000,14500,"Comida Saludable",890,38000,"jueves",230,9.0,5,240,0.05
+"Laureles Medellín",38000,6800,"Hamburguesas",2600,36000,"sábado",720,10.0,9,150,0.08
+"Laureles Medellín",38000,6800,"Pizza",1500,39000,"viernes",380,8.5,6,150,0.08
+"Laureles Medellín",38000,6800,"Sushi",720,58000,"viernes",200,10.5,4,150,0.07
+"Laureles Medellín",38000,6800,"Comida Saludable",480,32000,"miércoles",130,8.0,3,150,0.08
