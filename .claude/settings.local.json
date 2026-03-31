@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(xargs -0 grep -l \"ordersLastWeek\\\\|dailyOrdersAvg\\\\|estimatedMonthlyGMV\\\\|successfulBrands\\\\|topCategory\\\\|peakDay\\\\|availableRTs\\\\|cancellationRate\\\\|ops_zone\\\\|orders_last_week\\\\|avg_ticket\\\\|food_category\")"
+    ]
+  }
+}
